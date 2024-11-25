@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: springai
+  ai:
+    openai:
+      apiKey:
+      chat:
+        options:
+          model: cf/meta/llama-3.1-8b-instruct
+      image:
+        apiKey:
+        base-url:
